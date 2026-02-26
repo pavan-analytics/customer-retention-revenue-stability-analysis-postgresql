@@ -70,6 +70,17 @@ Built an interactive dashboard to:
 
 ---
 
+## 📑 Report & Business Presentation
+
+This repository includes:
+
+- 📄 Detailed Project Report outlining analytical approach and findings  
+- 📊 Executive-Level Presentation (Gamma AI) for stakeholder communication  
+
+These documents summarize retention risk drivers, revenue exposure, and recommended business actions derived from the analysis.
+
+---
+
 ## 📊 Key Insights
 
 - **70.76% of total revenue is currently dependent on churn-risk customers**, indicating significant revenue instability.
@@ -115,6 +126,8 @@ customer-retention-revenue-stability-analysis-postgresql/
 │
 ├── docs/
 │   └── retention_revenue_stability_problem_statement.pdf
+    └── Customer-Retention-Risk-and-Revenue-Stability-Analysis.pdf
+    └── Customer Retention Risk & Revenue Stability Analysis_ Report.pdf
 │
 ├── images/
 │   └── dashboard_preview.png
